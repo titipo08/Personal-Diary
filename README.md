@@ -163,5 +163,4 @@ A: The password is hardcoded in the source file. Open `DiaryApp.java`, change th
 Kinjal Sethiya - titipo08
 
 ---
-
-## 📄 LicenseThis project is licensed under the [MIT License](LICENSE).
+📄 LicenseThis project is licensed under the [MIT License](LICENSE).
